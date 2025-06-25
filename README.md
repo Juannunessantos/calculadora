@@ -1,1 +1,1 @@
-# Calculadora cientifica
+# Calculadora científica
